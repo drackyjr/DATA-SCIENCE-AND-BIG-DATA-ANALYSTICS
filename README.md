@@ -1,6 +1,6 @@
 ### 📘 **DSBDA Assignment Series Overview**
 
-**Repository:** [drackyjr/dsb](https://github.com/drackyjr/dsb/)
+**Repository:** [drackyjr/dsbda](https://github.com/drackyjr/DATA-SCIENCE-AND-BIG-DATA-ANALYSTICS)
 
 **Objective:**
 This series of assignments is designed to provide hands-on experience with data science concepts, including data preprocessing, exploratory data analysis (EDA), machine learning model implementation, and big data tools. Each assignment focuses on practical applications using Python and Jupyter Notebooks.
